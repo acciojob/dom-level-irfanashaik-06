@@ -6,4 +6,4 @@ while(Element){
 	Element=Element.parentElement;
 	}
 
-alert("The level of the element is:+count");
+alert(`The level of the element is:${count}`);
